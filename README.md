@@ -2,7 +2,7 @@
 
 #Expense Tracker
 
-https://user-images.githubusercontent.com/100119877/187080546-bdc2e7b8-b9a2-4d01-bd8c-57e4ebcde2b0.mov
+![expens-tracker](https://user-images.githubusercontent.com/100119877/187080675-0b6b654a-adde-4f72-af51-216ceead39c3.gif)
 
 
 ## Decription
